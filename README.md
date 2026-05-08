@@ -217,7 +217,7 @@ python app.py
 
 3. **Login**:
    - Username: `admin`
-   - Password: `admin`
+   - Password: `admin123`
 
 ### **Option 2: Desktop Application**
 
