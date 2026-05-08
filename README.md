@@ -5,8 +5,11 @@
 [![SQLite](https://img.shields.io/badge/SQLite-3-orange.svg)](https://www.sqlite.org/)
 [![Tkinter](https://img.shields.io/badge/UI-Tkinter-yellow.svg)](https://docs.python.org/3/library/tkinter.html)
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
+[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://gayathri1462.github.io/Hospital-Management-System/)
 
 > A comprehensive, full-featured Hospital Management System with both **Desktop (Tkinter)** and **Web (Flask)** interfaces. This system streamlines hospital operations including patient registration, appointment scheduling, room allocation, employee management, billing, and nursing staff coordination.
+
+🌐 **[👉 VIEW LIVE DEMO](https://gayathri1462.github.io/Hospital-Management-System/)**
 
 ---
 
@@ -168,7 +171,7 @@ The system manages:
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/Hospital-Management-System.git
+git clone https://github.com/gayathri1462/Hospital-Management-System.git
 cd Hospital-Management-System
 ```
 
@@ -183,6 +186,20 @@ python setup_database.py
 ```
 
 This will create the `HospitalDB.db` SQLite database with all required tables.
+
+---
+
+## 🎬 Quick Demo
+
+Want to see it in action without installing? 
+
+👉 **[View Interactive Demo Here](https://gayathri1462.github.io/Hospital-Management-System/)**
+
+The demo includes:
+- ✅ Full screenshot gallery
+- ✅ Feature walkthrough
+- ✅ Technology stack overview
+- ✅ Quick start guide
 
 ---
 
