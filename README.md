@@ -1,1 +1,1 @@
-# student-management-system
+# hospital management system
